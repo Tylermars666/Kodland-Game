@@ -1,2 +1,2 @@
-# Kodland-Game
-Juego realizado en Python para prueba técnica
+# shooter-pygame
+Juego de shooter en pygame 
