@@ -1,5 +1,7 @@
 import pygame, random
 
+#OMAR IVAN PIEDRAHITA TRUJILLO
+
 #Ancho, Alto y Colores RGB
 WIDTH = 800
 HEIGHT = 600
